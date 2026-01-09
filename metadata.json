@@ -1,0 +1,7 @@
+{
+  "name": "Kamaraj Exam Portal",
+  "description": "A high-security window-protecting examination portal for Kamaraj College of Engineering and Technology featuring AI-driven proctoring, MCQ management, and Google Sheets integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
